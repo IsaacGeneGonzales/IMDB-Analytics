@@ -23,7 +23,7 @@ project-name/
 ## Data Download
 The data files (both raw and processed) were too large to be included in the repository. Instead, they are hosted on Google Drive. You can download them using the link below:
 
-[Download Data from Google Drive](your-google-drive-link-here)
+[Download Data from Google Drive](https://drive.google.com/file/d/1Rdi9vsoZu0rZFwfyd3yTNbUnj8Px4CrG/view?usp=sharing)
 
 After downloading:
 - Place **raw data** inside the `data/raw/` directory.
