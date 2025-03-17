@@ -1,4 +1,4 @@
-# Project Name
+# IMDb Movie Data Analysis
 
 ## Developer
 
