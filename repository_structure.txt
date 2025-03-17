@@ -1,0 +1,17 @@
+project-name/
+│── data/
+│   ├── raw/                 # Store raw dataset files
+│   ├── processed/           # Store cleaned datasets
+│
+│── src/
+│   ├── data_fetching.py      # Load data from local files
+│   ├── raw_metadata.py       # Store data types & column descriptions for raw data
+│   ├── data_processing.py    # Cleaning & feature engineering for dashboard
+│ 
+│── notebooks/                # EDA & Analysis
+│
+│── streamlit_app/            # Dashboard
+│
+│── requirements.txt          # Dependencies
+│── README.md                 # Documentation
+│── .gitignore                # Ignore unnecessary files
